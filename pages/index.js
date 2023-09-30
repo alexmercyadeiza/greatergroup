@@ -180,7 +180,7 @@ export default function Home() {
         </div>
 
         {/* <!-- Social Icons--> */}
-        <div className="space-y pt-10 grayscale">
+        <div className="space-y pt-10">
           <div className="mx-auto grid w-5/6 grid-cols-4 place-items-center gap-10">
             <img
               src="https://res.cloudinary.com/damms5yog/image/upload/v1695253270/gg/Yudala_logo-removebg-preview_1_mpb59r.png"
@@ -294,7 +294,7 @@ export default function Home() {
             Reach out to our team for support. We&rsquo;d be more than happy to
             answer your questions.
           </div>
-          <div className="flex items-center space-x-4 md:text-2xl">
+          <div className="flex items-center space-x-4 md:text-xl">
             <svg
               xmlns="http://www.w3.org/2000/svg"
               className="w-8 fill-current text-white"
@@ -307,7 +307,7 @@ export default function Home() {
             </a>
           </div>
 
-          <div className="flex items-center space-x-4 md:text-2xl">
+          <div className="flex items-center space-x-4 md:text-xl">
             <svg
               xmlns="http://www.w3.org/2000/svg"
               className="w-8 fill-current text-white"
